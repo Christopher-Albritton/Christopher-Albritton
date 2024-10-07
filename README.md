@@ -1,5 +1,3 @@
-## Hey 👋, I'm Chris,  a professional data analyst
-
 Hello! I'm Chris,a professional data analyst with experience on more than 7 technical projects. My skills include business analystics, SQL, and data visualization and storytelling through Tableau and Power BI. I'm looking forward to leveraging my skills to dive into big data and come out with impactful visualizations, helping propel all stakeholder's goals forward such as a clear plan of growth and boosting sales.
 
 In June of 2024, I enrolled into TripleTen's 4 month Business Intelligence Analyst program. The 7 Sprint curriculum covered, Excel/Business Analytics, SQL, Tableau and Power BI. Each Sprint wrapped up all the lessons with a project based on real world scenarios.
